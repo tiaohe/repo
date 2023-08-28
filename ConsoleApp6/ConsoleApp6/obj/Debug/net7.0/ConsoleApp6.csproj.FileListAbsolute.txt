@@ -1,0 +1,14 @@
+D:\rider_cache\Demo4\ConsoleApp6\ConsoleApp6\bin\Debug\net7.0\ConsoleApp6.exe
+D:\rider_cache\Demo4\ConsoleApp6\ConsoleApp6\bin\Debug\net7.0\ConsoleApp6.deps.json
+D:\rider_cache\Demo4\ConsoleApp6\ConsoleApp6\bin\Debug\net7.0\ConsoleApp6.runtimeconfig.json
+D:\rider_cache\Demo4\ConsoleApp6\ConsoleApp6\bin\Debug\net7.0\ConsoleApp6.dll
+D:\rider_cache\Demo4\ConsoleApp6\ConsoleApp6\bin\Debug\net7.0\ConsoleApp6.pdb
+D:\rider_cache\Demo4\ConsoleApp6\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+D:\rider_cache\Demo4\ConsoleApp6\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.AssemblyInfoInputs.cache
+D:\rider_cache\Demo4\ConsoleApp6\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.AssemblyInfo.cs
+D:\rider_cache\Demo4\ConsoleApp6\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+D:\rider_cache\Demo4\ConsoleApp6\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.dll
+D:\rider_cache\Demo4\ConsoleApp6\ConsoleApp6\obj\Debug\net7.0\refint\ConsoleApp6.dll
+D:\rider_cache\Demo4\ConsoleApp6\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.pdb
+D:\rider_cache\Demo4\ConsoleApp6\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.genruntimeconfig.cache
+D:\rider_cache\Demo4\ConsoleApp6\ConsoleApp6\obj\Debug\net7.0\ref\ConsoleApp6.dll
