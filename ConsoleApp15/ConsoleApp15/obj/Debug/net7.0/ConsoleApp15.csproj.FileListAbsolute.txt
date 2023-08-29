@@ -1,0 +1,14 @@
+D:\rider_cache\Demo4\ConsoleApp15\ConsoleApp15\bin\Debug\net7.0\ConsoleApp15.exe
+D:\rider_cache\Demo4\ConsoleApp15\ConsoleApp15\bin\Debug\net7.0\ConsoleApp15.deps.json
+D:\rider_cache\Demo4\ConsoleApp15\ConsoleApp15\bin\Debug\net7.0\ConsoleApp15.runtimeconfig.json
+D:\rider_cache\Demo4\ConsoleApp15\ConsoleApp15\bin\Debug\net7.0\ConsoleApp15.dll
+D:\rider_cache\Demo4\ConsoleApp15\ConsoleApp15\bin\Debug\net7.0\ConsoleApp15.pdb
+D:\rider_cache\Demo4\ConsoleApp15\ConsoleApp15\obj\Debug\net7.0\ConsoleApp15.GeneratedMSBuildEditorConfig.editorconfig
+D:\rider_cache\Demo4\ConsoleApp15\ConsoleApp15\obj\Debug\net7.0\ConsoleApp15.AssemblyInfoInputs.cache
+D:\rider_cache\Demo4\ConsoleApp15\ConsoleApp15\obj\Debug\net7.0\ConsoleApp15.AssemblyInfo.cs
+D:\rider_cache\Demo4\ConsoleApp15\ConsoleApp15\obj\Debug\net7.0\ConsoleApp15.csproj.CoreCompileInputs.cache
+D:\rider_cache\Demo4\ConsoleApp15\ConsoleApp15\obj\Debug\net7.0\ConsoleApp15.dll
+D:\rider_cache\Demo4\ConsoleApp15\ConsoleApp15\obj\Debug\net7.0\refint\ConsoleApp15.dll
+D:\rider_cache\Demo4\ConsoleApp15\ConsoleApp15\obj\Debug\net7.0\ConsoleApp15.pdb
+D:\rider_cache\Demo4\ConsoleApp15\ConsoleApp15\obj\Debug\net7.0\ConsoleApp15.genruntimeconfig.cache
+D:\rider_cache\Demo4\ConsoleApp15\ConsoleApp15\obj\Debug\net7.0\ref\ConsoleApp15.dll

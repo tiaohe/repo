@@ -1,0 +1,14 @@
+D:\rider_cache\Demo4\ConsoleApp20\ConsoleApp20\bin\Debug\net7.0\ConsoleApp20.exe
+D:\rider_cache\Demo4\ConsoleApp20\ConsoleApp20\bin\Debug\net7.0\ConsoleApp20.deps.json
+D:\rider_cache\Demo4\ConsoleApp20\ConsoleApp20\bin\Debug\net7.0\ConsoleApp20.runtimeconfig.json
+D:\rider_cache\Demo4\ConsoleApp20\ConsoleApp20\bin\Debug\net7.0\ConsoleApp20.dll
+D:\rider_cache\Demo4\ConsoleApp20\ConsoleApp20\bin\Debug\net7.0\ConsoleApp20.pdb
+D:\rider_cache\Demo4\ConsoleApp20\ConsoleApp20\obj\Debug\net7.0\ConsoleApp20.GeneratedMSBuildEditorConfig.editorconfig
+D:\rider_cache\Demo4\ConsoleApp20\ConsoleApp20\obj\Debug\net7.0\ConsoleApp20.AssemblyInfoInputs.cache
+D:\rider_cache\Demo4\ConsoleApp20\ConsoleApp20\obj\Debug\net7.0\ConsoleApp20.AssemblyInfo.cs
+D:\rider_cache\Demo4\ConsoleApp20\ConsoleApp20\obj\Debug\net7.0\ConsoleApp20.csproj.CoreCompileInputs.cache
+D:\rider_cache\Demo4\ConsoleApp20\ConsoleApp20\obj\Debug\net7.0\ConsoleApp20.dll
+D:\rider_cache\Demo4\ConsoleApp20\ConsoleApp20\obj\Debug\net7.0\refint\ConsoleApp20.dll
+D:\rider_cache\Demo4\ConsoleApp20\ConsoleApp20\obj\Debug\net7.0\ConsoleApp20.pdb
+D:\rider_cache\Demo4\ConsoleApp20\ConsoleApp20\obj\Debug\net7.0\ConsoleApp20.genruntimeconfig.cache
+D:\rider_cache\Demo4\ConsoleApp20\ConsoleApp20\obj\Debug\net7.0\ref\ConsoleApp20.dll
